@@ -48,8 +48,8 @@
             </div>
 
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                <a class="thumbnail" href="#">
-                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                <a class="thumbnail" href="bb.jpg">
+                    <img class="img-responsive" src="bb.jpg" alt="">
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
